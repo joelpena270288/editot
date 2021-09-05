@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkeditor"]=self["webpackChunkeditor"]||[]).push([[999],{999:(e,n,t)=>{t.r(n),t.d(n,{default:()=>d});var a=t(3673);function r(e,n,t,r,s,c){const o=(0,a.up)("q-page");return(0,a.wg)(),(0,a.j4)(o,{class:"flex flex-center"})}const s=(0,a.aZ)({name:"PageIndex"});var c=t(4379),o=t(7518),u=t.n(o);s.render=r;const d=s;u()(s,"components",{QPage:c.Z})}}]);
